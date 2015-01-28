@@ -3,7 +3,7 @@ A .NET command line solver for 7 Little Words
 
 ## Disclaimer
 
-Don't expect much from this. It was written in an hour or two because I was frustrated at a 7LittleWords puzzle (http://www.7littlewords.com/daily-puzzle/)
+Don't expect much from this. It was written in an hour or two because I was frustrated at a 7LittleWords puzzle (http://www.7littlewords.com/daily-puzzle/ and https://itunes.apple.com/us/app/7-little-words/id431434152)
 
 I don't profess that I chose the most efficient way to solve these puzzles, I merely chose the fastest way for me to write it.
 
