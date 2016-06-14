@@ -1,6 +1,8 @@
 # 7 Little Words
 A .NET command line solver for 7 Little Words
 
+![Demonstration GIF](https://raw.githubusercontent.com/Jamish/7LittleWords/master/7LittleWords.gif)
+
 ## Disclaimer
 
 Don't expect much from this. It was written in an hour or two because I was frustrated at a 7 Little Words puzzle (http://www.7littlewords.com/daily-puzzle/ and https://itunes.apple.com/us/app/7-little-words/id431434152)
